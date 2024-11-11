@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/online-quizz-main/online-quizz-main"
+		},
+		{
+			"path": "../../../Downloads/home-main/home-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bhanu"
+	}
+}
